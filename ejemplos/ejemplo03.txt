@@ -3,10 +3,19 @@
 3.  sueldo, i[0,n]
 4.  edad <-- 21
 5.  Si edad >= 10 and edad <=20 entonces
-6.    sueldo <- 400  
+6.    sueldo <-- 400  
 7.  Fin si
 8.  Si edad > 21 entonces
-9.    sueldo <- 500  
+9.    sueldo <-- 500  
 10.  Fin si
 11. Escribir "El sueldo es :" + sueldo
 12.  Fin
+
+// En este ejemplo no existe ningina salida
+// en el condicional de la linea 5 no puede entrar al condicional debido a que
+// no cumple las condiciones
+// En el condicional de la linea 9 tampoco puede entrar ya que solo toma el
+// el calor es mayor que 21, pero no lo toma en cuenta al 21
+// Entonces a sueldo no se le asigna ningun valor y lo unico que se va
+// presentar en pantalla es lo lo siguiente:
+// "El sueldo es :"

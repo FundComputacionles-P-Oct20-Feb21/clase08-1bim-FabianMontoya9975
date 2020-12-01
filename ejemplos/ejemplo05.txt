@@ -12,7 +12,14 @@
 12. Escribir "Ingrese 1 para sumar"
 13. Escribir "Ingrese 2 para restar"
 14. Escribir "Ingrese 3 para multiplicar"
+
 15. Leer op // 4
+// Al momento de leer y al ingresar el valor de 4 se va a generar un error
+// debido a que las condiciones definidas solo se ejecutan cuando se inresa
+// el valor de 1, 2 o 3
+
+// Aqui se termina el proceso y se genera un error ya que no existe la opcion 4
+
 16. Dependiendo_De(op) Haga
 17.    Opcion 1 // si op es igual a 1; se realiza las instrucciones
 18.      resultado <-- valor1 + valor2

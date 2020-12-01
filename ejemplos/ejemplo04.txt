@@ -31,7 +31,7 @@
 // realizar el siguiente proceso:
 
 23. Escribir "El valor total a pagar es: " + valorTotal
-// En poantalla se presentará el mensaje:
+// En pantalla se presentará el mensaje:
 // El valor total a pagar es: 23
 
 24. Fin

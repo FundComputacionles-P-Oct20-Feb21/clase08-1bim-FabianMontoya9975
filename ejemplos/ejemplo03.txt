@@ -12,9 +12,9 @@
 12.  Fin
 
 // En este ejemplo no existe ningina salida
-// en el condicional de la linea 5 no puede entrar al condicional debido a que
+// En la linea 5 no se puede entrar al condicional debido a que
 // no cumple las condiciones
-// En el condicional de la linea 9 tampoco puede entrar ya que solo toma el
-// el calor es mayor que 21, pero no lo toma en cuenta al 21
-// Entonces a sueldo no se le asigna ningun valor y entonces no se imprime
-// nada
+// En el condicional de la linea 9 tampoco puede entrar ya que 21 = 21
+// entonces no cumple la condicion
+// Entonces a sueldo no se le asigna ningun valor y debido a esto no se
+// imprimir nada en pantalla

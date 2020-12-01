@@ -1,9 +1,16 @@
 1.  Inicio
 2.  n, i[0-n]
 3.  n <-- 2
-4.  Mientras n < 2 Entonces
+4.  Mientras n < 2 Entonces  // 2<2  // falso
 6.    << n
 8.    n <-- n + 1 
 9.  Fin Mientras"
+// No entra al ciclo repetitivo porque la condicion es falsa
+// Pero debido a que no hay un error entonces si puede continuar con la
+// ejecución del codigo
+
 10. << n
+// En pantalla se presentará el numero guardado en la variable n
+// 2
+
 11. Fin

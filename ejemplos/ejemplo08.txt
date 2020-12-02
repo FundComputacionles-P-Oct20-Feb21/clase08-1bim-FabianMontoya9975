@@ -6,13 +6,13 @@
 // En pantalla se presentael valor guardado en numero
 //         1
 
-7.     numero <-- numero + 1
+6.     numero <-- numero + 1
 //     numero = 1 + 1
 //     numero = 2
-8.  Fin Haga_Hasta (numero <= 1)  // 2 <= 1 --> falso
+7.  Fin Haga_Hasta (numero <= 1)  // 2 <= 1 --> falso
 // Se culmina el ciclo
 
-9.  Escribir numero
+8.  Escribir numero
 // Se presenta en pantalla el valor guardado en la variable numero
 //       2
 9.  Fin

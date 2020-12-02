@@ -2,25 +2,25 @@
 2.  n, i[0-n]
 3.  n <-- 2
 4.  Mientras n <= 2 Entonces  // 2 <= 2// Verdadero
-6.    << n
+5.    << n
 // En pantalla se presenta lo que esta guardado en n
 //        2
 
-8.    n <-- n + 1 
+6.    n <-- n + 1 
 //    2 =   2 + 1
 //    n = 3
 // Al momento de regresar a la linea 4 para realizar la comparación para
 // realizar o no de nuevo el proceso, pero en este caso la condicion es falsa 
 // debido a que 3 no es menos igual que 2 entonces termina el ciclo
 // repetitivo. 
-9.  Fin Mientras"
-10. << n
+7.  Fin Mientras"
+8. << n
 // En pantalla se presentara el valor guardado en n
 // despues de pasar por el contador dentro del ciclo en n se guardo el valor
 // de 3 entonces en poantalla se presenta
 //     3
 
-11. Fin
+9. Fin
 // En pantalla se presentará:
 //  2
 //  3
